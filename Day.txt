@@ -1,0 +1,8 @@
+🚀 Day 07 of my 120 day in #html and #css along with #python challenge at Codegnan IT Solutions!
+📅 22-04-2025
+
+🧠 Today's topics : Git Sign Up, Creating repository and pushing project to get live link
+--------------------------------------------------------------------------------		
+✨ I am extremely thankful to @Ambica Kiranmayee Bellamkonda mam for her exceptional training and continuous motivation. My sincere gratitude also goes to @Saketh Kallepu sir and @Uppugundla Sairam sir for their valuable support and encouragement. I wholeheartedly thank @Codegnan for providing me with this great opportunity to shape a strong foundation for my future.
+--------------------------------------------------------------------------------		
+🔖 #GitHub #Repository #PushCode #LiveLink #VersionControl #WebDevelopment #FrontendDev #LearnToCode #CodingCommunity #TechCommunity
